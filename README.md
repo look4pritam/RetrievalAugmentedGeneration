@@ -1,2 +1,2 @@
-# RetrievalAugmentedGeneration
+# Retrieval Augmented Generation
 Retrieval Augmented Generation
