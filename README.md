@@ -26,3 +26,6 @@ Retrieval Augmented Generation
 - OpenSearch
   - [LangChain - OpenSearch](https://python.langchain.com/v0.2/docs/integrations/vectorstores/opensearch/)
   - [medium.com - Query your knowledge base easily with OpenSearch + LangChain](https://medium.com/@grisanti.isidoro/query-your-knowledge-base-easily-with-opensearch-langchain-26ff77449eb0)
+
+### References
+- [Multi-Modal RAG: A Practical Guide](https://gautam75.medium.com/multi-modal-rag-a-practical-guide-99b0178c4fbb)
